@@ -1,4 +1,4 @@
-Meu nome é Maisa Gomes
+Meu nome é Bruna Mayumy 
 
 -Estou visitando a Alura
 -Estou me desenvolvendo na linguagem JavaScript
@@ -6,4 +6,4 @@ Meu nome é Maisa Gomes
 -Você pode entrar em contato comigo 📫
 
 
-00001133260913sp@al.educacao.sp.gov.br
+00001110611602sp@al.educacao.sp.gov.br
